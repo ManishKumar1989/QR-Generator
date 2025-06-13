@@ -1,6 +1,4 @@
-# QR-Generator
-
-# QR Code Generator
+# Simple and Dynamic Excel based QR Code Generator
 
 This project generates QR codes for contacts using data from an Excel file. It supports two modes:
 - **Static vCard QR Codes**: Generates QR codes containing vCard contact information.
